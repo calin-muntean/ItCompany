@@ -132,7 +132,6 @@ h1, h2, h3 {
         font-size: 12px;
     }
 }
-/* Navbar Styles */
 .navbar {
     background-color: #007BFF;
     padding: 10px 20px;
@@ -187,7 +186,6 @@ h1, h2, h3 {
     transition: all 0.3s ease;
 }
 
-/* Mobile Styles */
 @media (max-width: 768px) {
     .navbar .nav-links {
         position: fixed;
